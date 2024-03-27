@@ -1,6 +1,6 @@
 <!--#responsive-image {  width: 100%;  height: auto; } -->
 
-<img align="right" alt="Coding" id="responsive-image" src="https://github.com/RobLightYear/RobLightYear/blob/main/GitHubReadme_Header.jpg">
+<img align="right" alt="Coding" id="responsive-image" src="GitHubReadme_Header_cloudy.jpg">
 
 ### Hi there 👋
 
