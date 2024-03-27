@@ -4,7 +4,7 @@
 
 ### The Go-To-Guy • Fix-it Felix Sr • Winston Wolfe
 
-Throughout my career, I've had the privilege of contributing significantly to various startups, spanning from boutique agencies to multinational corporations, including notable ventures in the e-commerce sector and even the world's largest toy company. My experience encompasses a broad spectrum of design roles, from conceptualization and guiding artistic direction to hands-on design implementation with meticulous attention to detail. This diverse skill set allows me to craft compelling and unified artistic visions tailored to different industries and scopes, making a meaningful and enduring mark on each brand.<br><br>
+Throughout my design career, I've had the privilege of contributing significantly to various startups, spanning from boutique agencies to multinational corporations, including notable ventures in the e-commerce sector and even the world's largest toy company. My experience encompasses a broad spectrum of design roles, from conceptualization and guiding artistic direction to hands-on design implementation with meticulous attention to detail. This diverse skill set allows me to craft compelling and unified artistic visions tailored to different industries and scopes, making a meaningful and enduring mark on each brand.<br><br>
 
 > Currently upskilling to Python with HyperionDev
 <br><br>
