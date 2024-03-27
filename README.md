@@ -8,11 +8,14 @@ Throughout my career, I’ve played a pivotal role in shaping the identities of 
 
 `Currently upskilling to Python with HyperionDev`
 
+<img style="float: left;valign: middle;" src="RL.svg" width="50"> 
+
+
 <!-- Archived content -->
 <!--### Hi there 👋 -->
 
 <!--
-<img style="float: left;valign: middle;" src="HyperionDev_logo.jpg" width="20">
+<img style="float: left;valign: middle;" src="HyperionDev_logo.jpg" width="30">
 **RobLightYear/RobLightYear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
