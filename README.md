@@ -6,7 +6,7 @@
 
 Throughout my career, I’ve played a pivotal role in shaping the identities of startups, ranging from boutique agencies to expansive multinational corporations, including multi-million dollar e-commerce enterprises and even the world’s biggest toy company. My expertise spans a wide spectrum, covering every facet of the design journey, from initial conceptualisation and artistic direction to meticulous design work and flawless execution. My diverse skill set enables me to create compelling and cohesive artistic visions across a range of industries and scales, leaving a lasting impact on every brand.<br><br>
 
-:zap: `Currently upskilling to Python with HyperionDev`
+> Currently upskilling to Python with HyperionDev
 
 <img style="float: left;valign: middle;" src="RL.svg" width="50"> 
 
@@ -15,6 +15,7 @@ Throughout my career, I’ve played a pivotal role in shaping the identities of 
 <!--### Hi there 👋 -->
 
 <!--
+`Currently upskilling to Python with HyperionDev`
 <img style="float: left;valign: middle;" src="HyperionDev_logo.jpg" width="30">
 **RobLightYear/RobLightYear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
