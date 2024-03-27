@@ -6,6 +6,8 @@ Throughout my design career, I've had the privilege of contributing significantl
 > Currently upskilling to Python with HyperionDev<br>
 > <img style="float: left;valign: middle;" src="HyperionDev_logo.jpg" width="20">
 <br>
+Markdown | Less | Pretty
+--- | --- | ---
 
 <!--#### 25 years of working with some of the most exciting brands-->
 <img style="float: left;valign: middle;" src="clients.svg"> 
