@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on Python with HyperionDev
