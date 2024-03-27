@@ -6,10 +6,6 @@ Throughout my design career, I've had the privilege of contributing significantl
 > Currently upskilling to Python with HyperionDev<br>
 > <img style="float: left;valign: middle;" src="HyperionDev_logo.jpg" width="20">
 <br>
-Markdown | Less | Pretty
---- | --- | ---
-
-<!--#### 25 years of working with some of the most exciting brands-->
 <img style="float: left;valign: middle;" src="clients.svg"> 
 
 
@@ -17,7 +13,7 @@ Markdown | Less | Pretty
 <!--### Hi there 👋 -->
 
 <!--
-
+#### 25 years of working with some of the most exciting brands
 `Currently upskilling to Python with HyperionDev`
 <img style="float: left;valign: middle;" src="HyperionDev_logo.jpg" width="30">
 **RobLightYear/RobLightYear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
